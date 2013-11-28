@@ -8,3 +8,12 @@ C:\Projects\GitHubClientWinForm\GitHubClientWinForm\obj\Debug\GitHubClientWinFor
 C:\Projects\GitHubClientWinForm\GitHubClientWinForm\obj\Debug\GitHubClientWinForm.csproj.GenerateResource.Cache
 C:\Projects\GitHubClientWinForm\GitHubClientWinForm\obj\Debug\GitHubClientWinForm.exe
 C:\Projects\GitHubClientWinForm\GitHubClientWinForm\obj\Debug\GitHubClientWinForm.pdb
+C:\Users\Anna\WinFormsGitHubClient\bin\Debug\GitHubClientWinForm.exe.config
+C:\Users\Anna\WinFormsGitHubClient\obj\Debug\GitHubClientWinForm.exe
+C:\Users\Anna\WinFormsGitHubClient\obj\Debug\GitHubClientWinForm.pdb
+C:\Users\Anna\WinFormsGitHubClient\bin\Debug\GitHubClientWinForm.exe
+C:\Users\Anna\WinFormsGitHubClient\bin\Debug\GitHubClientWinForm.pdb
+C:\Users\Anna\WinFormsGitHubClient\obj\Debug\GitHubClientWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Anna\WinFormsGitHubClient\obj\Debug\GitHubClientWinForm.GitHubClientForm.resources
+C:\Users\Anna\WinFormsGitHubClient\obj\Debug\GitHubClientWinForm.Properties.Resources.resources
+C:\Users\Anna\WinFormsGitHubClient\obj\Debug\GitHubClientWinForm.csproj.GenerateResource.Cache
