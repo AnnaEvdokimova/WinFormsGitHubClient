@@ -1,0 +1,10 @@
+C:\Projects\GitHubClientWinForm\GitHubClientWinForm\bin\Debug\GitHubClientWinForm.exe.config
+C:\Projects\GitHubClientWinForm\GitHubClientWinForm\bin\Debug\GitHubClientWinForm.exe
+C:\Projects\GitHubClientWinForm\GitHubClientWinForm\bin\Debug\GitHubClientWinForm.pdb
+C:\Projects\GitHubClientWinForm\GitHubClientWinForm\bin\Debug\Octokit.dll
+C:\Projects\GitHubClientWinForm\GitHubClientWinForm\obj\Debug\GitHubClientWinForm.csprojResolveAssemblyReference.cache
+C:\Projects\GitHubClientWinForm\GitHubClientWinForm\obj\Debug\GitHubClientWinForm.GitHubClientForm.resources
+C:\Projects\GitHubClientWinForm\GitHubClientWinForm\obj\Debug\GitHubClientWinForm.Properties.Resources.resources
+C:\Projects\GitHubClientWinForm\GitHubClientWinForm\obj\Debug\GitHubClientWinForm.csproj.GenerateResource.Cache
+C:\Projects\GitHubClientWinForm\GitHubClientWinForm\obj\Debug\GitHubClientWinForm.exe
+C:\Projects\GitHubClientWinForm\GitHubClientWinForm\obj\Debug\GitHubClientWinForm.pdb
